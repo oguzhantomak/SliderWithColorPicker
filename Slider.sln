@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slider", "Slider\Slider.csproj", "{9B723BF9-7253-45E5-A054-991A31A0A139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B723BF9-7253-45E5-A054-991A31A0A139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B723BF9-7253-45E5-A054-991A31A0A139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B723BF9-7253-45E5-A054-991A31A0A139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B723BF9-7253-45E5-A054-991A31A0A139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D00F28-729C-41B0-9778-CB95056A00E3}
+	EndGlobalSection
+EndGlobal
